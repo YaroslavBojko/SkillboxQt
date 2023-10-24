@@ -1,0 +1,9 @@
+# ninja log v5
+1721	2283	7196129212109289	SkillboxQt.exe	83991ee6965b1dc2
+267	418	7186583496473690	CMakeFiles/SkillboxQt.dir/SkillboxQt_autogen/mocs_compilation.cpp.obj	194a11823efff436
+8	109	0	CMakeFiles/SkillboxQt_autogen	7dd190f02fbea3ef
+89	1720	7196129209687470	CMakeFiles/SkillboxQt.dir/main.cpp.obj	7f3730448c542309
+8	109	0	SkillboxQt_autogen/mocs_compilation.cpp	7dd190f02fbea3ef
+3	560	7198666595267654	build.ninja	1ed19dfbf45c8a5b
+8	109	0	C:/Users/yaros/CLionProjects/SkillboxQt/cmake-build-debug/CMakeFiles/SkillboxQt_autogen	7dd190f02fbea3ef
+8	109	0	C:/Users/yaros/CLionProjects/SkillboxQt/cmake-build-debug/SkillboxQt_autogen/mocs_compilation.cpp	7dd190f02fbea3ef
